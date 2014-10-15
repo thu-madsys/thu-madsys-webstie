@@ -96,5 +96,19 @@
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap.min.js"></script>
+    <script src="{{ ASSET_PATH }}/bootstrap/js/jssor.slider.mini.js"></script>
+    <script>
+        jQuery(document).ready(function ($) {
+            var options = {
+                $AutoPlay: true,
+                $BulletNavigatorOptions: {
+                    $Class: $JssorBulletNavigator$,
+                    $ChanceToShow: 2,
+                    $AutoCenter: 1
+                }
+            };
+            var jssor_slider1 = new $JssorSlider$('slider1_container', options);
+        });
+    </script>
   </body>
 </html>
