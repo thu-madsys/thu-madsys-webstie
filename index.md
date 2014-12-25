@@ -4,7 +4,7 @@ title: Hello Systems!
 ---
 {% include JB/setup %}
 
-Madsys Group pursues innovations in mobile computing, distributed systems and [more](/interests.html).
+Madsys Group pursues innovations in Distributed processing, systems, and Applications; Mobile computing and [more](/interests.html).
 
 
 <div id="slider1_container" style="position: relative; top: 0px; left: 0px; width: 600px; height: 300px;">
