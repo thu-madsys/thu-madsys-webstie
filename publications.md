@@ -5,16 +5,27 @@ header: Publications
 group: navigation
 ---
 {% include JB/setup %}
-
-* MARS: Mobile Application Relaunching Speed-up through Flash-Aware Page Swapping  
+* Associative Big Data Sharing in Community Clouds – The MeePo Approach   
+Yongwei Wu, Maomeng Su, Weimin Zheng, Kai Hwang, Albert Y.Zomaya   
+Accepted and to appear in IEEE Cloud Computing   
+* HEADS-JOIN: Efficient Earth Mover's Distance Similarity Joins on Hadoop   
+Jin Huang, Rui Zhang, Rajkumar Buyya, Jian Chen, Yongwei Wu   
+Accepted and to appear in IEEE Transactions on Parallel and Distributed Systems   
+* Systematic Data Placement Optimization in Multi-Cloud Storage for Complex Requirements   
+Maomeng Su, Lei Zhang, Yongwei Wu, Kang Chen, Keqin Li   
+Accepted and to appear in IEEE Transactions on Computers
+* What is Wrong With the Transmission? — A Comprehensive Study on Message Passing Related Bugs   
+Mingxing Zhang, Yongwei Wu, Kang Chen, Weimin Zheng   
+To appear in the 44th International Conference on Parallel Processing (ICPP 2015), September 1-4, Beijing, China   
+* [MARS: Mobile Application Relaunching Speed-up through Flash-Aware Page Swapping](/publications/TC2015-guo.pdf)  
 Weichao Guo, Kang Chen, Huan Feng, Yongwei Wu, Rui Zhang, Weimin Zheng  
-Accepted and to appear in IEEE Transactions on Computers (__TC__)
-* Memory-Centric Data Storage for Mobile Systems  
+Accepted and to appear in IEEE Transactions on Computers
+* [Memory-Centric Data Storage for Mobile Systems](/publications/ATC2015-ren.pdf)
 Jinglei Ren, Chieh-Jan Mike Liang, Yongwei Wu, Thomas Moscibroda  
-To appear in the 2015 USENIX Annual Technical Conference (__ATC 2015__), July 8-10, 2015, Santa Clara, CA, US
-* Bidding for Highly Available Services with Low Price in Spot Instance Market  
+2015 USENIX Annual Technical Conference (__ATC 2015__)
+* [Bidding for Highly Available Services with Low Price in Spot Instance Market](/publications/HPDC2015-guo.pdf)  
 Weichao Guo, Kang Chen, Yongwei Wu, Weimin Zheng  
-To appear in the 24th International ACM Symposium on High-Performance Parallel and Distributed Computing (__HPDC 2015__), June 15-19, 2015, Portland, OR, US
+24th International ACM Symposium on High-Performance Parallel and Distributed Computing (__HPDC 2015__)
 * [Extracting More Concurrency from Distributed Transactions](/publications/OSDI2014-mu.pdf)  
 Shuai Mu, Cui Yang, Wyatt Lloyd, Jinyang Li  
 11th USENIX Symposium on Operating Systems Design and Implementation (__OSDI 2014__)
@@ -26,25 +37,25 @@ Shuai Mu, Kang Chen, Yongwei Wu, Weimin Zheng
 23rd International ACM Symposium on High-Performance Parallel and Distributed Computing (__HPDC 2014__)
 * [Modeling of Distributed File Systems for Practical Performance Analysis](/publications/TPDS2014-wu.pdf)  
 Yongwei Wu, Feng Ye, Kang Chen, Weimin Zheng  
-IEEE Transactions on Parallel and Distributed Systems, 2014, Vol. 25, No. 1, pp.156-166 (__TPDS 2014__)
+IEEE Transactions on Parallel and Distributed Systems, 2014, Vol. 25, No. 1, pp.156-166
 * [NO2: Speeding Up Parallel Processing of Massive Compute-Intensive Tasks](/publications/TC2014-wu.pdf)  
 Yongwei Wu, Weichao Guo, Jinglei Ren, Xun Zhao, Weimin Zheng  
-IEEE Transactions on Computers, 2014, Vol. 63, Issue 10, pp.2487-2499 (__TC 2014__)
+IEEE Transactions on Computers, 2014, Vol. 63, Issue 10, pp.2487-2499
 * [Quatrain: Accelerating Data Aggregation between Multiple Layers](/publications/TC2014-ren.pdf)  
 Jinglei Ren, Yongwei Wu, Meiqi Zhu, Weimin Zheng  
-IEEE Transactions on Computers, 2014, Vol. 63, Issue 5, pp.1207-1219 (__TC 2014__)
+IEEE Transactions on Computers, 2014, Vol. 63, Issue 5, pp.1207-1219
 * [Guarantee Strict Fairness and Utilize Prediction Better in Parallel Job Scheduling](/publications/TPDS2014-yuan.pdf)  
 Yulai Yuan, Yongwei Wu, Weimin Zheng, Keqin Li  
-IEEE Transactions on Parallel and Distributed Systems, 2014, Vol. 25, No. 4, pp.971-981 (__TPDS 2014__)
+IEEE Transactions on Parallel and Distributed Systems, 2014, Vol. 25, No. 4, pp.971-981
 * [Response Time based Optimal Web Service Selection](/publications/TPDS2014-ahmed.pdf)  
 Waseem Ahmed, Yongwei Wu, Weimin Zheng  
 IEEE Transactions on Parallel and Distributed Systems, DOI: 10.1109/TPDS.2013.310, 2013
 * [Liquid: A Scalable Deduplication File System for Virtual Machine Images](/publications/TPDS2014-zhao.pdf)  
 Xun Zhao, Yang Zhang, Yongwei Wu, Kang Chen, Jinlei Jiang, Keqin Li  
-IEEE Transactions on Parallel and Distributed Systems, 2014, Vol. 25, No. 5, pp.1257-1266 (__TPDS 2014__)
+IEEE Transactions on Parallel and Distributed Systems, 2014, Vol. 25, No. 5, pp.1257-1266
 * [Attribute-Aware Data Aggregation Using Potential-Based Dynamic Routing in Wireless Sensor Networks](/publications/TPDS2013-ren.pdf)  
 Fengyuan Ren, Jiao Zhang, Yongwei Wu, Tao He, Canfeng Chen, Chuang Lin  
-IEEE Transactions on Parallel and Distributed Systems, 2013, Vol. 24, No. 5, pp.881-892 (__TPDS 2013__)
+IEEE Transactions on Parallel and Distributed Systems, 2013, Vol. 24, No. 5, pp.881-892 
 * [Droplet: a Distributed Solution of Data Deduplication](/publications/GRID2012-zhang.pdf)  
 Yang Zhang, Yongwei Wu, Guangwen Yang  
 13th IEEE/ACM International Conference on Grid Computing (Grid 2012)
@@ -65,7 +76,7 @@ Yulai Yuan, Guangwen Yang, Yongwei Wu, Weimin Zheng
 19th International ACM Symposium on High-Performance Parallel and Distributed Computing (__HPDC 2010__)
 * [Adaptive workload prediction of grid performance in confidence windows](/publications/TPDS2010-wu.pdf)  
 Yongwei Wu, Kai Hwang, Yulai Yuan, Weimin Zheng  
-IEEE Transactions on Parallel and Distributed Systems, 2010, Vol. 21, No. 7, pp.925-938 (__TPDS 2010__)
+IEEE Transactions on Parallel and Distributed Systems, 2010, Vol. 21, No. 7, pp.925-938
 * [Improving grid performance by dynamically deploying applications](/publications/CCPE2010-wu.pdf)  
 Yongwei Wu, Gang Chen, Jia Liu, Rui Fang, Guangwen Yang, Weimin Zheng  
 Concurrency Computation Practice and Experience, 2010, Vol. 22, No. 13, pp.1945-1967
