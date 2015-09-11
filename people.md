@@ -23,6 +23,10 @@ group: navigation
 * Xue Li (Ph.D.)
 * Jian Huang (Master)
 * Zheyi Chen (Master)
+* Mengxing Liu (Ph.D.)
+* Yifeng Ding (Ph.D.)
+* Yingdi Shan (Master)
+* Jiang Wang (Master)
 
 ## Visiting Students
 * Bingfen Li (2014-2015)
