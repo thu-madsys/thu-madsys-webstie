@@ -11,9 +11,9 @@ Accepted and to appear in IEEE Cloud Computing
 * HEADS-JOIN: Efficient Earth Mover's Distance Similarity Joins on Hadoop   
 Jin Huang, Rui Zhang, Rajkumar Buyya, Jian Chen, Yongwei Wu   
 Accepted and to appear in IEEE Transactions on Parallel and Distributed Systems   
-* Systematic Data Placement Optimization in Multi-Cloud Storage for Complex Requirements   
+* [Systematic Data Placement Optimization in Multi-Cloud Storage for Complex Requirements](/publications/TC2015-su.pdf)   
 Maomeng Su, Lei Zhang, Yongwei Wu, Kang Chen, Keqin Li   
-Accepted and to appear in IEEE Transactions on Computers
+Accepted and to appear in IEEE Transactions on Computers, DOI: 10.1109/TC.2015.2462821
 * What is Wrong With the Transmission? — A Comprehensive Study on Message Passing Related Bugs   
 Mingxing Zhang, Yongwei Wu, Kang Chen, Weimin Zheng   
 To appear in the 44th International Conference on Parallel Processing (ICPP 2015), September 1-4, Beijing, China   
