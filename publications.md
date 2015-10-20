@@ -5,6 +5,12 @@ header: Publications
 group: navigation
 ---
 {% include JB/setup %}
+* Dual-Scheme Checkpointing: A Software-Transparent Mechanism for Supporting Crash Consistency in Persistent Memory Systems
+Jinglei Ren, Jishen Zhao, Samira Khan, Jongmoo Choi, Yongwei Wu, and Onur Mutlu
+Accepted and to appear in the 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO 2015)
+* Topk Spatio-Textual Similarity Join
+Huiqi Hu, Guoliang Li, Zhifeng Bao, Jianhua Feng, Yongwei Wu, Zhiguo Gong, Yaoqiang Xu
+Accepted and to appear in IEEE Transactions on Knowledge and Data Engineering (TKDE), 2015
 * Associative Big Data Sharing in Community Clouds – The MeePo Approach   
 Yongwei Wu, Maomeng Su, Weimin Zheng, Kai Hwang, Albert Y.Zomaya   
 Accepted and to appear in IEEE Cloud Computing   
