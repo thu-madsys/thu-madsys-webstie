@@ -41,6 +41,9 @@ Mingxing Zhang, Yongwei Wu, Shan Lu, Shangxiang Qi, Jinglei Ren, Weimin Zheng
 * [When Paxos Meets Erasure Code: Reduce Network and Storage Cost in State Machine Replication](/publications/HPDC2014-mu.pdf)  
 Shuai Mu, Kang Chen, Yongwei Wu, Weimin Zheng  
 23rd International ACM Symposium on High-Performance Parallel and Distributed Computing (__HPDC 2014__)
+* End-to-End Congestion Control for High Speed Networks Based on Population Ecology Models  
+Wanchun Jiang, Rengyuan Ren, Yongwei Wu, Chuang Lin, Stojmenovic Ivan  
+IEEE Transactions on Computers (IEEE TC), Vol. 63, No. 11, 2014
 * [Modeling of Distributed File Systems for Practical Performance Analysis](/publications/TPDS2014-wu.pdf)  
 Yongwei Wu, Feng Ye, Kang Chen, Weimin Zheng  
 IEEE Transactions on Parallel and Distributed Systems, 2014, Vol. 25, No. 1, pp.156-166
@@ -98,6 +101,9 @@ International Conference on Scalable Computing and Communications (ScalCom 2009)
 * [Service-oriented Execution Model Supporting Data Sharing and Adaptive Query Processing](/publications/CC2010-wu.pdf)  
 Yongwei Wu, Jia Liu, Gang Chen, Qiming Fang, Guangwen Yang  
 Cluster Computing, 2009, Vol. 13, No. 2, pp.127-140
+* End-to-End Congestion Control for High Speed Networks Based on Population Ecology Models  
+Xiaomeng Huang, Fengyuan Ren, Guangwen Yang, Yongwei Wu, W. Zhen, Chuang Lin  
+28th International Conference on Distributed Computing Systems (ICDCS 2008)
 * [Load Prediction Using Hybrid Model for Computational Grid](/publications/GRID2007-wu.pdf)  
 Yongwei Wu, Yulai Yuan, Guangwen Yang, Weimin Zheng  
 8th IEEE/ACM International Conference on Grid Computing (Grid 2007)
