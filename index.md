@@ -4,7 +4,7 @@ title: Hello Systems!
 ---
 {% include JB/setup %}
 
-Madsys Group pursues innovations in Distributed processing, systems, and Applications; Mobile computing and [more](/interests.html).
+MadSys(Mad System) group is for cutting-edge systems research, especially focus on the design, implementation, evaluation, and the use of parallel and distributed systems. Our interesting topics include Runtime Environment, Virtualization, Resource Management and Scheduling, Performance analysis, Fault Tolerance and so on.
 
 
 <div id="slider1_container" style="position: relative; top: 0px; left: 0px; width: 600px; height: 300px;">
