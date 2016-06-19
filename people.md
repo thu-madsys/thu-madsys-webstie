@@ -15,7 +15,7 @@ group: navigation
 * [Maomeng Su](https://www.linkedin.com/profile/view?id=349373945) (Ph.D.)
 * [Weichao Guo](http://weichaoguo.github.io) (Ph.D.)
 * [Mingxing Zhang](http://james0zan.github.io) (Ph.D.)
-* Pin Gao (Ph.D.)
+* [Pin Gao](http://zorksylar.github.io) (Ph.D.)
 * Zhiyuan Ai (Ph.D.)
 * Bin Wang (Master)
 * Ke Yang (Ph.D.)
