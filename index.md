@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Hello Systems!
+header: Hello Systems!
 ---
 {% include JB/setup %}
 
