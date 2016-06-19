@@ -11,7 +11,6 @@ group: navigation
 * [Kang Chen](/~kangchen)
 
 ## Students
-* [Jinglei Ren](http://jinglei.ren.systems) (Ph.D.)
 * Huan Feng (Ph.D.)
 * [Maomeng Su](https://www.linkedin.com/profile/view?id=349373945) (Ph.D.)
 * [Weichao Guo](http://weichaoguo.github.io) (Ph.D.)
@@ -32,6 +31,7 @@ group: navigation
 * Bingfen Li (2014-2015)
 
 ##Alumni
+* [Jinglei Ren](http://jinglei.ren.systems) (Ph.D. 2016), MicroSoft Research Asia, Beijing, China
 * Xun Zhao (Ph.D. 2015), China Merchants Bank, Shenzhen, China
 * Shuai Mu (Ph.D. 2015), New York University, New York, United States
 * Daokuan Ma (Master 2015), Netease Inc., Hangzhou, China
