@@ -4,8 +4,9 @@ title: Hello Systems!
 ---
 {% include JB/setup %}
 
-MadSys(Mad System) group is for cutting-edge systems research, especially focus on the design, implementation, evaluation, and the use of parallel and distributed systems. Our interesting topics include Runtime Environment, Virtualization, Resource Management and Scheduling, Performance analysis, Fault Tolerance and so on.
-
+<p>
+MadSys(<span style="color:#f00">Mad Sys</span>tem) group is for cutting-edge systems research, especially focus on the design, implementation, evaluation, and the use of parallel and distributed systems. Our interesting topics include Runtime Environment, Virtualization, Resource Management and Scheduling, Performance analysis, Fault Tolerance and so on.
+</p>
 
 <div id="slider1_container" style="position: relative; top: 0px; left: 0px; width: 600px; height: 300px;">
     <!-- Slides Container -->
