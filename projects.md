@@ -1,4 +1,4 @@
- ---
+---
 layout: page
 title: Projects
 header: Selected Projects in Progress

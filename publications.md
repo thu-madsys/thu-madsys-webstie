@@ -5,7 +5,7 @@ header: Publications
 group: navigation
 ---
 {% include JB/setup %}
-*ThyNVM: Enabling Software-Transparent Crash Consistency in Persistent Memory Systems
+* ThyNVM: Enabling Software-Transparent Crash Consistency in Persistent Memory Systems
 Jinglei Ren, Jishen Zhao, Samira Khan, Jongmoo Choi, Yongwei Wu, and Onur Mutlu   
 Accepted and to appear in the 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO 2015)   
 * Topk Spatio-Textual Similarity Join   
