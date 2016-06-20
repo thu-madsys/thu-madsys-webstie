@@ -5,7 +5,7 @@ header: Publications
 group: navigation
 ---
 {% include JB/setup %}
-* ThyNVM: Enabling Software-Transparent Crash Consistency in Persistent Memory Systems
+* ThyNVM: Enabling Software-Transparent Crash Consistency in Persistent Memory Systems   
 Jinglei Ren, Jishen Zhao, Samira Khan, Jongmoo Choi, Yongwei Wu, and Onur Mutlu   
 Accepted and to appear in the 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO 2015)   
 * Topk Spatio-Textual Similarity Join   
@@ -26,8 +26,8 @@ To appear in the 44th International Conference on Parallel Processing (ICPP 2015
 * [MARS: Mobile Application Relaunching Speed-up through Flash-Aware Page Swapping](/publications/TC2015-guo.pdf)  
 Weichao Guo, Kang Chen, Huan Feng, Yongwei Wu, Rui Zhang, Weimin Zheng  
 Accepted and to appear in IEEE Transactions on Computers
-* [Memory-Centric Data Storage for Mobile Systems](/publications/ATC2015-ren.pdf)
-Jinglei Ren, Chieh-Jan Mike Liang, Yongwei Wu, Thomas Moscibroda  
+* [Memory-Centric Data Storage for Mobile Systems](/publications/ATC2015-ren.pdf)   
+Jinglei Ren, Chieh-Jan Mike Liang, Yongwei Wu, Thomas Moscibroda   
 2015 USENIX Annual Technical Conference (__ATC 2015__)
 * [Bidding for Highly Available Services with Low Price in Spot Instance Market](/publications/HPDC2015-guo.pdf)  
 Weichao Guo, Kang Chen, Yongwei Wu, Weimin Zheng  
@@ -41,8 +41,8 @@ Mingxing Zhang, Yongwei Wu, Shan Lu, Shangxiang Qi, Jinglei Ren, Weimin Zheng
 * [When Paxos Meets Erasure Code: Reduce Network and Storage Cost in State Machine Replication](/publications/HPDC2014-mu.pdf)  
 Shuai Mu, Kang Chen, Yongwei Wu, Weimin Zheng  
 23rd International ACM Symposium on High-Performance Parallel and Distributed Computing (__HPDC 2014__)
-* Analysis of Backward Congestion Notification with Delay for Enhanced Ethernet Networks
-Wanchun Jiang, Fengyuan Ren, Yongwei Wu, Chuang Lin, Stojmenovic Ivan
+* Analysis of Backward Congestion Notification with Delay for Enhanced Ethernet Networks   
+Wanchun Jiang, Fengyuan Ren, Yongwei Wu, Chuang Lin, Stojmenovic Ivan   
 IEEE Transactions on Computers (IEEE TC), Vol. 63, No. 11, 2014
 * [Modeling of Distributed File Systems for Practical Performance Analysis](/publications/TPDS2014-wu.pdf)  
 Yongwei Wu, Feng Ye, Kang Chen, Weimin Zheng  
