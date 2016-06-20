@@ -1,27 +1,37 @@
----
+ ---
 layout: page
 title: Projects
-header: Selected Projects
+header: Selected Projects in Progress
 group: navigation
 ---
 {% include JB/setup %}
 
-### Tsinghua University – Tsinghua Tongfang Co., Ltd. Joint Research Center for Computer Architecture
-* From: Tsinghua Tongfang Co., Ltd.
-* PI: Prof. Yongwei WU
-* Time: 2016-2020
-
-### High Efficiency Oriented Storage and Management Technologies for Big Data
+### Title: High Efficiency Storage and Management for Big Data
 * From: Key Project of Natural Science Foundation of China
-* PI: Prof. Yongwei WU
+* PI: Yongwei WU
 * Time: 2015-2019
 
-### Key Techniques for Cloud Storage Security from the Perspective of System Research
-* From: Natural Science Foundation of China
-* PI: Prof. Yongwei WU, Kang CHEN
-* Time: 2014-2017
-
-### Distributed Storage System and Cooperative Services for Cloud Computing
-* From: Ministry of Sicence and Technology of China
+### Title: Distributed Storage Systems and Cooperative Services for Cloud Computing
+* From: Ministry of Science and Technology of China
 * PI: Kang CHEN, Yongwei WU
 * Time: 2016-2019
+
+### Title: Key Techniques for Cloud Storage Security from the Perspective of System Research
+* From: Natural Science Foundation of China
+* PI: Yongwei WU, Kang CHEN
+* Time: 2014-2017
+
+### Title: Tsinghua University – Tsinghua Tongfang Co., Ltd. Joint Research Center for Computer Architecture
+* From: Tsinghua Tongfang Co., Ltd.
+* PI: Yongwei WU
+* Time: 2016-2020
+
+### Title: Resource Virtulization, Management and Scheduling for Cloud Computing
+* From: Yonyou Network Co., Ltd. ( formerly known as 'UFIDA')
+* PI: Yongwei WU, Jinlei JIANG
+* Time: 2014-2017
+
+### Title: Fast and Atomic Data Structure Manipulation based on Byte Addressable Non-Volatile Memory
+* From: Intel China Research Center
+* PI: Kang CHEN
+* Time: 2016-2017
