@@ -5,24 +5,24 @@ header: Publications
 group: navigation
 ---
 {% include JB/setup %}
-* ThyNVM: Enabling Software-Transparent Crash Consistency in Persistent Memory Systems   
+* [ThyNVM: Enabling Software-Transparent Crash Consistency in Persistent Memory Systems](/publications/MICRO2015-ren.pdf)    
 Jinglei Ren, Jishen Zhao, Samira Khan, Jongmoo Choi, Yongwei Wu, and Onur Mutlu   
-Accepted and to appear in the 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO 2015)   
-* Topk Spatio-Textual Similarity Join   
+Accepted and to appear in the 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO 2015)
+* [Topk Spatio-Textual Similarity Join](/publications/TKDE2015-hu.pdf)   
 Huiqi Hu, Guoliang Li, Zhifeng Bao, Jianhua Feng, Yongwei Wu, Zhiguo Gong, Yaoqiang Xu   
-Accepted and to appear in IEEE Transactions on Knowledge and Data Engineering (TKDE), 2015   
-* Associative Big Data Sharing in Community Clouds – The MeePo Approach   
+Accepted and to appear in IEEE Transactions on Knowledge and Data Engineering (TKDE), 2015
+* [Associative Big Data Sharing in Community Clouds – The MeePo Approach](/publications/CC2015-wu.pdf)   
 Yongwei Wu, Maomeng Su, Weimin Zheng, Kai Hwang, Albert Y.Zomaya   
-Accepted and to appear in IEEE Cloud Computing   
-* HEADS-JOIN: Efficient Earth Mover's Distance Similarity Joins on Hadoop   
+Accepted and to appear in IEEE Cloud Computing
+* [HEADS-JOIN: Efficient Earth Mover's Distance Similarity Joins on Hadoop](/publications/TPDS2015-huang.pdf)   
 Jin Huang, Rui Zhang, Rajkumar Buyya, Jian Chen, Yongwei Wu   
-Accepted and to appear in IEEE Transactions on Parallel and Distributed Systems   
+Accepted and to appear in IEEE Transactions on Parallel and Distributed Systems
 * [Systematic Data Placement Optimization in Multi-Cloud Storage for Complex Requirements](/publications/TC2015-su.pdf)   
 Maomeng Su, Lei Zhang, Yongwei Wu, Kang Chen, Keqin Li   
 Accepted and to appear in IEEE Transactions on Computers, DOI: 10.1109/TC.2015.2462821
-* What is Wrong With the Transmission? — A Comprehensive Study on Message Passing Related Bugs   
+* [What is Wrong With the Transmission? — A Comprehensive Study on Message Passing Related Bugs](/publications/ICPP2015-zhang.pdf)   
 Mingxing Zhang, Yongwei Wu, Kang Chen, Weimin Zheng   
-To appear in the 44th International Conference on Parallel Processing (ICPP 2015), September 1-4, Beijing, China   
+To appear in the 44th International Conference on Parallel Processing (ICPP 2015), September 1-4, Beijing, China
 * [MARS: Mobile Application Relaunching Speed-up through Flash-Aware Page Swapping](/publications/TC2015-guo.pdf)  
 Weichao Guo, Kang Chen, Huan Feng, Yongwei Wu, Rui Zhang, Weimin Zheng  
 Accepted and to appear in IEEE Transactions on Computers
@@ -41,7 +41,7 @@ Mingxing Zhang, Yongwei Wu, Shan Lu, Shangxiang Qi, Jinglei Ren, Weimin Zheng
 * [When Paxos Meets Erasure Code: Reduce Network and Storage Cost in State Machine Replication](/publications/HPDC2014-mu.pdf)  
 Shuai Mu, Kang Chen, Yongwei Wu, Weimin Zheng  
 23rd International ACM Symposium on High-Performance Parallel and Distributed Computing (__HPDC 2014__)
-* Analysis of Backward Congestion Notification with Delay for Enhanced Ethernet Networks   
+* [Analysis of Backward Congestion Notification with Delay for Enhanced Ethernet Networks](/publications/TC2014-jiang.pdf)   
 Wanchun Jiang, Fengyuan Ren, Yongwei Wu, Chuang Lin, Stojmenovic Ivan   
 IEEE Transactions on Computers (IEEE TC), Vol. 63, No. 11, 2014
 * [Modeling of Distributed File Systems for Practical Performance Analysis](/publications/TPDS2014-wu.pdf)  
@@ -101,8 +101,8 @@ International Conference on Scalable Computing and Communications (ScalCom 2009)
 * [Service-oriented Execution Model Supporting Data Sharing and Adaptive Query Processing](/publications/CC2010-wu.pdf)  
 Yongwei Wu, Jia Liu, Gang Chen, Qiming Fang, Guangwen Yang  
 Cluster Computing, 2009, Vol. 13, No. 2, pp.127-140
-* End-to-End Congestion Control for High Speed Networks Based on Population Ecology Models  
-Xiaomeng Huang, Fengyuan Ren, Guangwen Yang, Yongwei Wu, W. Zhen, Chuang Lin  
+* [End-to-End Congestion Control for High Speed Networks Based on Population Ecology Models](/publications/ICDCS2008-huang.pdf)   
+Xiaomeng Huang, Fengyuan Ren, Guangwen Yang, Yongwei Wu, W. Zhen, Chuang Lin   
 28th International Conference on Distributed Computing Systems (ICDCS 2008)
 * [Load Prediction Using Hybrid Model for Computational Grid](/publications/GRID2007-wu.pdf)  
 Yongwei Wu, Yulai Yuan, Guangwen Yang, Weimin Zheng  

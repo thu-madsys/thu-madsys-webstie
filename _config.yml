@@ -8,10 +8,10 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : MadSys(Mad System) Group
+title : MadSys Group
 tagline: Site Tagline
 author :
-  name : MadSys(Mad System) Group
+  name : MadSys Group
   email : madsys.thu@gmail.com
   github : thu-madsys
   twitter : thu-madsys
