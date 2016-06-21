@@ -8,7 +8,7 @@ group: navigation
 
 ### 2016
 * [HEADS-JOIN: Efficient Earth Mover's Distance Similarity Joins on Hadoop](/publications/TPDS2015-huang.pdf)   
-Jin Huang, Rui Zhang, Rajkumar Buyya, Jian Chen, Yongwei Wu
+Jin Huang, Rui Zhang, Rajkumar Buyya, Jian Chen, Yongwei Wu   
 IEEE Transactions on Parallel and Distributed Systems, 2016, Vol. 27, No. 6, pp.1660-1673
 * [Systematic Data Placement Optimization in Multi-Cloud Storage for Complex Requirements](/publications/TC2015-su.pdf)   
 Maomeng Su, Lei Zhang, Yongwei Wu, Kang Chen, Keqin Li   
