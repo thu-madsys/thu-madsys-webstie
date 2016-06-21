@@ -6,28 +6,30 @@ group: navigation
 ---
 {% include JB/setup %}
 
+### 2016
+* [HEADS-JOIN: Efficient Earth Mover's Distance Similarity Joins on Hadoop](/publications/TPDS2015-huang.pdf)   
+Jin Huang, Rui Zhang, Rajkumar Buyya, Jian Chen, Yongwei Wu
+IEEE Transactions on Parallel and Distributed Systems, 2016, Vol. 27, No. 6, pp.1660-1673
+* [Systematic Data Placement Optimization in Multi-Cloud Storage for Complex Requirements](/publications/TC2015-su.pdf)   
+Maomeng Su, Lei Zhang, Yongwei Wu, Kang Chen, Keqin Li   
+IEEE Transactions on Computers, 2016, Vol. 65, Issue 6, pp.1964-1977
+* [MARS: Mobile Application Relaunching Speed-up through Flash-Aware Page Swapping](/publications/TC2015-guo.pdf)  
+Weichao Guo, Kang Chen, Huan Feng, Yongwei Wu, Rui Zhang, Weimin Zheng   
+IEEE Transactions on Computers, 2016, Vol. 65, Issue 3, pp.916-928
+* [Top-k Spatio-Textual Similarity Join](/publications/TKDE2015-hu.pdf)   
+Huiqi Hu, Guoliang Li, Zhifeng Bao, Jianhua Feng, Yongwei Wu, Zhiguo Gong, Yaoqiang Xu   
+IEEE Transactions on Knowledge and Data Engineering (TKDE), 2016, Vol. 28, No. 2, pp.551-565
+
 ### 2015
 * [ThyNVM: Enabling Software-Transparent Crash Consistency in Persistent Memory Systems](/publications/MICRO2015-ren.pdf)    
 Jinglei Ren, Jishen Zhao, Samira Khan, Jongmoo Choi, Yongwei Wu, and Onur Mutlu   
-Accepted and to appear in the 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO 2015)
-* [Top-k Spatio-Textual Similarity Join](/publications/TKDE2015-hu.pdf)   
-Huiqi Hu, Guoliang Li, Zhifeng Bao, Jianhua Feng, Yongwei Wu, Zhiguo Gong, Yaoqiang Xu   
-Accepted and to appear in IEEE Transactions on Knowledge and Data Engineering (TKDE), 2015
+48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO 2015)
 * [Associative Big Data Sharing in Community Clouds – The MeePo Approach](/publications/CC2015-wu.pdf)   
 Yongwei Wu, Maomeng Su, Weimin Zheng, Kai Hwang, Albert Y.Zomaya   
-Accepted and to appear in IEEE Cloud Computing
-* [HEADS-JOIN: Efficient Earth Mover's Distance Similarity Joins on Hadoop](/publications/TPDS2015-huang.pdf)   
-Jin Huang, Rui Zhang, Rajkumar Buyya, Jian Chen, Yongwei Wu   
-Accepted and to appear in IEEE Transactions on Parallel and Distributed Systems
-* [Systematic Data Placement Optimization in Multi-Cloud Storage for Complex Requirements](/publications/TC2015-su.pdf)   
-Maomeng Su, Lei Zhang, Yongwei Wu, Kang Chen, Keqin Li   
-Accepted and to appear in IEEE Transactions on Computers, DOI: 10.1109/TC.2015.2462821
+IEEE Cloud Computing, 2015, Vol. 2, No. 6, pp.64-73
 * [What is Wrong With the Transmission? — A Comprehensive Study on Message Passing Related Bugs](/publications/ICPP2015-zhang.pdf)   
 Mingxing Zhang, Yongwei Wu, Kang Chen, Weimin Zheng   
-To appear in the 44th International Conference on Parallel Processing (ICPP 2015), September 1-4, Beijing, China
-* [MARS: Mobile Application Relaunching Speed-up through Flash-Aware Page Swapping](/publications/TC2015-guo.pdf)  
-Weichao Guo, Kang Chen, Huan Feng, Yongwei Wu, Rui Zhang, Weimin Zheng  
-Accepted and to appear in IEEE Transactions on Computers
+44th International Conference on Parallel Processing (ICPP 2015)
 * [Memory-Centric Data Storage for Mobile Systems](/publications/ATC2015-ren.pdf)   
 Jinglei Ren, Chieh-Jan Mike Liang, Yongwei Wu, Thomas Moscibroda   
 2015 USENIX Annual Technical Conference (__ATC 2015__)
