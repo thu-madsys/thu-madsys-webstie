@@ -62,8 +62,8 @@ IEEE Transactions on Computers, 2014, Vol. 63, Issue 5, pp.1207-1219
 * [Guarantee Strict Fairness and Utilize Prediction Better in Parallel Job Scheduling](/publications/TPDS2014-yuan.pdf)  
 Yulai Yuan, Yongwei Wu, Weimin Zheng, Keqin Li  
 IEEE Transactions on Parallel and Distributed Systems, 2014, Vol. 25, No. 4, pp.971-981
-* [Liquid: A Scalable Deduplication File System for Virtual Machine Images](/publications/TPDS2014-zhao.pdf)
-Xun Zhao, Yang Zhang, Yongwei Wu, Kang Chen, Jinlei Jiang, Keqin Li  
+* [Liquid: A Scalable Deduplication File System for Virtual Machine Images](/publications/TPDS2014-zhao.pdf)   
+Xun Zhao, Yang Zhang, Yongwei Wu, Kang Chen, Jinlei Jiang, Keqin Li   
 IEEE Transactions on Parallel and Distributed Systems, 2014, Vol. 25, No. 5, pp.1257-1266
 
 ### 2013
