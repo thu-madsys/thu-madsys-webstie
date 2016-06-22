@@ -9,6 +9,7 @@ group: navigation
 ## Faculties
 * [Yongwei Wu](/~yongweiwu)
 * [Kang Chen](/~kangchen)
+* [Jinlei Jiang](/~jinleijiang)
 
 ## Students
 * Huan Feng (Ph.D.)
