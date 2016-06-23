@@ -47,4 +47,6 @@ MadSys (<span style="color:#f00">Mad Sys</span>tem) group is doing cutting-edge 
         <!-- Bullet Navigator Skin End -->
 </div>
 
+<a href="/~photos" style="margin-left: 250px;">More Photos</a>
+
 
