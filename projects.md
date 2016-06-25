@@ -35,3 +35,15 @@ group: navigation
 * From: Intel China Research Center
 * PI: Kang CHEN
 * Time: 2016-2017
+
+#### Title: Research on the Key Technologies of Big Data Transfer
+* From: Natural Science Foundation of China
+* PI: Jinlei JIANG
+* Time: 2016-2020
+
+#### Title: Contents Development for High-Performance Computing Education Services
+* From: Ministry of Science and Technology of China
+* PI: Jinlei JIANG
+* Time: 2016-2017
+
+
