@@ -40,7 +40,7 @@ Jinglei Ren, Chieh-Jan Mike Liang, Yongwei Wu, Thomas Moscibroda
 Weichao Guo, Kang Chen, Yongwei Wu, Weimin Zheng  
 24th International ACM Symposium on High-Performance Parallel and Distributed Computing (__HPDC 2015__)
 * [ActCap: Accelerating MapReduce on Heterogeneous Clusters with Capability-Aware Data Placement](/publications/INFOCOM2015-wang.pdf)   
-Bo Wang, Jinlei Jiang and Guangwen Yang
+Bo Wang, Jinlei Jiang and Guangwen Yang   
 IEEE Conference on Computer Communications (__INFOCOM__), 2015, pp.1328-1336
 
 
