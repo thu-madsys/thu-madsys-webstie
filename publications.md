@@ -39,6 +39,10 @@ Jinglei Ren, Chieh-Jan Mike Liang, Yongwei Wu, Thomas Moscibroda
 * [Bidding for Highly Available Services with Low Price in Spot Instance Market](/publications/HPDC2015-guo.pdf)  
 Weichao Guo, Kang Chen, Yongwei Wu, Weimin Zheng  
 24th International ACM Symposium on High-Performance Parallel and Distributed Computing (__HPDC 2015__)
+* [ActCap: Accelerating MapReduce on Heterogeneous Clusters with Capability-Aware Data Placement](/publications/INFOCOM2015-wang.pdf)   
+Bo Wang, Jinlei Jiang and Guangwen Yang
+IEEE Conference on Computer Communications (__INFOCOM__), 2015, pp.1328-1336
+
 
 ### 2014
 * [Extracting More Concurrency from Distributed Transactions](/publications/OSDI2014-mu.pdf)  
@@ -68,6 +72,9 @@ IEEE Transactions on Parallel and Distributed Systems (__TPDS__), 2014, Vol. 25,
 * [Liquid: A Scalable Deduplication File System for Virtual Machine Images](/publications/TPDS2014-zhao.pdf)   
 Xun Zhao, Yang Zhang, Yongwei Wu, Kang Chen, Jinlei Jiang, Keqin Li   
 IEEE Transactions on Parallel and Distributed Systems (__TPDS__), 2014, Vol. 25, No. 5, pp.1257-1266
+* [mpCache: Accelerating MapReduce with Hybrid Storage System on Many-Core Clusters](/publications/NPC2014-wang.pdf)   
+Bo Wang, Jinlei Jiang and Guangwen Yang   
+IFIP International Conference on Network and Parallel Computing (NPC), 2014, pp. 220-233
 
 ### 2013
 * [Response Time based Optimal Web Service Selection](/publications/TPDS2014-ahmed.pdf)  
@@ -112,6 +119,19 @@ Journal of Supercomputing, 2010, Vol. 51, No. 2, pp.97-114
 * [VDB-MR: MapReduce-Based Distributed Data Integration Using Virtual Database](/publications/FGCS2010-yuan.pdf)  
 Yulai Yuan, Yongwei Wu, Xiao Feng, Jing Li, Guangwen Yang, Weimin Zheng  
 Future Generation Computer Systems (__FGCS__), 2010, Vol. 26, No. 8, pp.1418-1425
+* [Online Video Playing on Smartphones: A Context-Aware Approach Based on Cloud Computing](/publications/JIT2010-jiang.pdf)   
+Jinlei Jiang, Yongwei Wu, Xiaomeng Huang, Guangwen Yang, Weimin Zheng   
+Journal of Internet Technology, 2010, Vol. 11, No. 6, pp.821-827
+* [DABGPM: A Double Auction Bayesian Game-Based Pricing Model in Cloud Market](/publications/NPC2010-shang.pdf)   
+Shifeng Shang, Jinlei Jiang, Yongwei Wu, Zhenchun Huang, Guangwen Yang, Weimin Zheng   
+IFIP International Conference on Network and Parallel Computing (NPC), 2010, pp.155-164
+* [A Knowledge-based Continuous Double Auction Model for Cloud Market](/publications/SKG2010-shang.pdf)   
+Shifeng Shang, Jinlei Jiang, Yongwei Wu, Guangwen Yang, Weimin Zheng   
+6th International Conference on Semantics, Knowledge and Grids (SKG 2010), pp.129-134
+* [Distributed bandwidth allocation based on alternating evolution algorithm](/publications/JPDC2010-huang.pdf)   
+Xiaomeng Huang, Yongwei Wu, Guangwen Yang, Weimin Zheng, Jinlei Jiang   
+Journal of Parallel and Distributed Computing (__JPDC__), 2010, Vol. 70, No. 5, pp.547-557
+
 
 ### 2009
 * [ALR-MIN: A Replacement Strategy to Reduce Overhead during Dynamic Deployment of Applications in Grid](/publications/ScalCom2009-chen.pdf) (__Best Paper Award__)   
@@ -120,23 +140,34 @@ International Conference on Scalable Computing and Communications (ScalCom 2009)
 * [Service-oriented Execution Model Supporting Data Sharing and Adaptive Query Processing](/publications/CC2010-wu.pdf)  
 Yongwei Wu, Jia Liu, Gang Chen, Qiming Fang, Guangwen Yang  
 Cluster Computing, 2009, Vol. 13, No. 2, pp.127-140
+* [Workflow Management in the Grid Era: A Goal-driven Approach Based on Process Patterns](/publications/MAGS2009-jiang.pdf)   
+Jinlei Jiang, Shaohua Zhang, Johann Schlichter and Guangwen Yang   
+Multiagent and Grid Systems, 2009, Vol. 5, No. 3, pp.325-343
 
-### 2008
+
+### 2008-
 * [End-to-End Congestion Control for High Speed Networks Based on Population Ecology Models](/publications/ICDCS2008-huang.pdf)   
 Xiaomeng Huang, Fengyuan Ren, Guangwen Yang, Yongwei Wu, W. Zhen, Chuang Lin   
 28th International Conference on Distributed Computing Systems (__ICDCS 2008__)
-
-### 2007
-* [Load Prediction Using Hybrid Model for Computational Grid](/publications/GRID2007-wu.pdf)  
-Yongwei Wu, Yulai Yuan, Guangwen Yang, Weimin Zheng  
+* [Load Prediction Using Hybrid Model for Computational Grid](/publications/GRID2007-wu.pdf)   
+Yongwei Wu, Yulai Yuan, Guangwen Yang, Weimin Zheng   
 8th IEEE/ACM International Conference on Grid Computing (__Grid 2007__)
-
-### 2006
-* [Distributed File Streamer: A Framework for Distributed Application Data Coupling](/publications/GRID2006-chen.pdf)  
-Kang Chen, Zhiteng Huang, Bingchen Li, Eric Huang, Hrabri L. Rajic, Robert H. Kuhn, Wenguang Chen  
+* [Distributed File Streamer: A Framework for Distributed Application Data Coupling](/publications/GRID2006-chen.pdf)   
+Kang Chen, Zhiteng Huang, Bingchen Li, Eric Huang, Hrabri L. Rajic, Robert H. Kuhn, Wenguang Chen   
 7th IEEE/ACM International Conference on Grid Computing (__GRID 2006__)
-
-### 2004
-* [Accessor Variety Criteria for Chinese Word Extraction](/publications/JCL2004-feng.pdf)  
-Haodi Feng, Kang Chen, Xiaotie Deng, Weimin Zheng  
+* [Build Grid-enabled Large-scale Collaboration Environment in e-Learning Grid](/publications/ESA2006-li.pdf)   
+Yushun Li, Shengwen Yang, Jinlei Jiang and Meilin Shi   
+Expert Systems With Applications, 2006, Vol. 31, No.4, pp.742-754
+* [CoFrame: A Framework for CSCW Applications Based on Grid and Web Services](/publications/ICWS2005-jiang.pdf)   
+Jinlei Jiang, Shaohua Zhang, Yushun Li, Meilin Shi   
+IEEE International Conference on Web Services (__ICWS 2005__)
+* [Accessor Variety Criteria for Chinese Word Extraction](/publications/JCL2004-feng.pdf)   
+Haodi Feng, Kang Chen, Xiaotie Deng, Weimin Zheng   
 Computational Linguistics, Volume 30, Number 1, 1 March 2004
+* [Towards a Uniform Cooperative Platform: Cova Approach and Experience](/publications/JCST2003-shi.pdf)   
+Meilin Shi and Jinlei Jiang   
+Journal of Computer Science and Technology (__JCST__), 2004, Vol. 18, No. 4, pp.495-504
+* [CovaTM: a transaction model for cooperative applications](/publications/SAC2002-jiang.pdf)   
+Jinlei Jiang, Guangxin Yang, Yan Wu and Meilin Shi   
+Proc. ACM Symposium on Applied Computing (SAC), 2002, pp. 329-335
+
