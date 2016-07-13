@@ -13,12 +13,9 @@ group: navigation
 
 ## Students
 * Huan Feng (Ph.D.)
-* [Maomeng Su](https://www.linkedin.com/profile/view?id=349373945) (Ph.D.)
-* [Weichao Guo](http://weichaoguo.github.io) (Ph.D.)
 * [Mingxing Zhang](http://james0zan.github.io) (Ph.D.)
 * [Pin Gao](http://zorksylar.github.io) (Ph.D.)
 * Zhiyuan Ai (Ph.D.)
-* Bin Wang (Master)
 * Ke Yang (Ph.D.)
 * Xue Li (Ph.D.)
 * Jian Huang (Master)
@@ -32,7 +29,10 @@ group: navigation
 * Bingfen Li (2014-2015)
 
 ##Alumni
+* [Maomeng Su](https://www.linkedin.com/profile/view?id=349373945) (Ph.D. 2016), Huawei Inc., Beijing, China
+* [Weichao Guo](http://weichaoguo.github.io) (Ph.D. 2016), Huawei Inc., Beijing, China
 * [Jinglei Ren](http://jinglei.ren.systems) (Ph.D. 2016), MicroSoft Research Asia, Beijing, China
+* Bin Wang (Master 2016), Netease Inc., Guangzhou, China
 * Xun Zhao (Ph.D. 2015), China Merchants Bank, Shenzhen, China
 * Shuai Mu (Ph.D. 2015), New York University, New York, United States
 * Daokuan Ma (Master 2015), Netease Inc., Hangzhou, China
