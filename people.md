@@ -10,6 +10,7 @@ group: navigation
 * [Yongwei Wu](/~yongweiwu)
 * [Kang Chen](/~kangchen)
 * [Jinlei Jiang](/~jinleijiang)
+* Caifeng Hou
 
 ## Students
 * Huan Feng (Ph.D.)
