@@ -16,6 +16,9 @@ Accepted and to appear in the 42nd International Conference on Very Large Data B
 * [A Lightweight System for Detecting and Tolerating Concurrency Bugs](/publications/TSE2016-zhang.pdf)   
 Mingxing Zhang, Yongwei Wu, Shan Lu, Shanxiang Qi, Jinglei Ren, and Weimin Zheng   
 IEEE Transactions on Software Engineering (__TSE__), 2016
+* [PCAF: Scalable, High Precision k-NN Search using Principal Component Analysis based Filtering](/publications/ICPP2016-feng.pdf)   
+Huan Feng, David Eyers, Steven Mills, Yongwei Wu, Zhiyi Huang   
+45th International Conference on Parallel Processing (ICPP 2016)
 * [HEADS-JOIN: Efficient Earth Mover's Distance Similarity Joins on Hadoop](/publications/TPDS2015-huang.pdf)   
 Jin Huang, Rui Zhang, Rajkumar Buyya, Jian Chen, Yongwei Wu   
 IEEE Transactions on Parallel and Distributed Systems (__TPDS__), 2016, Vol. 27, No. 6, pp.1660-1673
