@@ -7,9 +7,15 @@ group: navigation
 {% include JB/setup %}
 
 ### 2016
+* Exploring the Hidden Dimension in Graph Processing   
+Mingxing Zhang, Yongwei Wu, Kang Chen, Xuehai Qian, Xue Li and Weimin Zheng   
+To appear in 12th USENIX Symposium on Operating Systems Design and Implementation (__OSDI 2016__)
 * Measuring and Optimizing Distributed Array Programs   
 Mingxing Zhang, Yongwei Wu, Kang Chen, Teng Ma, Weimin Zheng   
 Accepted and to appear in the 42nd International Conference on Very Large Data Bases (__VLDB 2016__)
+* A Lightweight System for Detecting and Tolerating Concurrency Bugs   
+Mingxing Zhang, Yongwei Wu, Shan Lu, Shanxiang Qi, Jinglei Ren, and Weimin Zheng   
+IEEE Transactions on Software Engineering (__TSE__), 2016
 * [HEADS-JOIN: Efficient Earth Mover's Distance Similarity Joins on Hadoop](/publications/TPDS2015-huang.pdf)   
 Jin Huang, Rui Zhang, Rajkumar Buyya, Jian Chen, Yongwei Wu   
 IEEE Transactions on Parallel and Distributed Systems (__TPDS__), 2016, Vol. 27, No. 6, pp.1660-1673
