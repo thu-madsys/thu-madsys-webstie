@@ -25,6 +25,10 @@ group: navigation
 * Yifeng Ding (Ph.D.)
 * Yingdi Shan (Master)
 * Jiang Wang (Master)
+* Teng Ma (Ph.D.)
+* Xin Xia (Master)
+* Kun Gong (Master)
+* Zhitao Li (Master)
 
 ## Visiting Students
 * Bingfen Li (2014-2015)
