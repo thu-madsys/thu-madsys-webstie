@@ -55,9 +55,9 @@ IEEE Conference on Computer Communications (__INFOCOM__), 2015, pp.1328-1336
 Shuai Mu, Cui Yang, Wyatt Lloyd, Jinyang Li  
 11th USENIX Symposium on Operating Systems Design and Implementation (__OSDI 2014__)
 * [AI: A Lightweight System for Tolerating Concurrency Bugs](/publications/FSE2014-zhang.pdf)  
-(__Won ACM SIGSOFT 2014 Distinguished Paper Award__)  
 Mingxing Zhang, Yongwei Wu, Shan Lu, Shangxiang Qi, Jinglei Ren, Weimin Zheng  
-22nd ACM SIGSOFT International Symposium on Foundations of Software Engineering (__FSE 2014__)
+22nd ACM SIGSOFT International Symposium on Foundations of Software Engineering (__FSE 2014__)  
+__Won ACM SIGSOFT 2014 Distinguished Paper Award__
 * [When Paxos Meets Erasure Code: Reduce Network and Storage Cost in State Machine Replication](/publications/HPDC2014-mu.pdf)  
 Shuai Mu, Kang Chen, Yongwei Wu, Weimin Zheng  
 23rd International ACM Symposium on High-Performance Parallel and Distributed Computing (__HPDC 2014__)
