@@ -7,7 +7,7 @@ group: navigation
 {% include JB/setup %}
 
 ### 2016
-* Exploring the Hidden Dimension in Graph Processing   
+* [Exploring the Hidden Dimension in Graph Processing](/publications/OSDI2016-zhang.pdf)   
 Mingxing Zhang, Yongwei Wu, Kang Chen, Xuehai Qian, Xue Li and Weimin Zheng   
 To appear in 12th USENIX Symposium on Operating Systems Design and Implementation (__OSDI 2016__)
 * [Measuring and Optimizing Distributed Array Programs](/publications/VLDB2016-zhang.pdf)   
