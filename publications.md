@@ -8,8 +8,8 @@ group: navigation
 
 ### 2017
 * DEDTM: Building Durable Transactions for Persistent Memories with Decoupling   
-Mengxing Liu<sub>*</sub>, Mingxing Zhang<sub>*</sub>, Kang Chen, Xuehai Qian, Yongwei Wu, Weimin Zheng, Jinglei Ren
-Accepted and to appear in the 2017 Architectural Support for Programming Languages and Operating Systems (__ASPLOS 2017__). <sub>*</sub>: Equally contributed.
+Mengxing Liu*, Mingxing Zhang*, Kang Chen, Xuehai Qian, Yongwei Wu, Weimin Zheng, Jinglei Ren
+Accepted and to appear in the 2017 Architectural Support for Programming Languages and Operating Systems (__ASPLOS 2017__). *: Equally contributed.
 
 ### 2016
 * [Exploring the Hidden Dimension in Graph Processing](/publications/OSDI2016-zhang.pdf)   
