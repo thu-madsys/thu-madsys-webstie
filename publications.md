@@ -6,13 +6,18 @@ group: navigation
 ---
 {% include JB/setup %}
 
+### 2017
+* DEDTM: Building Durable Transactions for Persistent Memories with Decoupling   
+Mengxing Liu, Mingxing Zhang, Kang Chen, Xuehai Qian, Yongwei Wu, Weimin Zheng, Jinglei Ren   
+Accepted and to appear in the 2017 Architectural Support for Programming Languages and Operating Systems (__ASPLOS 17__)
+
 ### 2016
 * [Exploring the Hidden Dimension in Graph Processing](/publications/OSDI2016-zhang.pdf)   
 Mingxing Zhang, Yongwei Wu, Kang Chen, Xuehai Qian, Xue Li and Weimin Zheng   
-To appear in 12th USENIX Symposium on Operating Systems Design and Implementation (__OSDI 2016__)
+12th USENIX Symposium on Operating Systems Design and Implementation (__OSDI 2016__)
 * [Measuring and Optimizing Distributed Array Programs](/publications/VLDB2016-zhang.pdf)   
 Mingxing Zhang, Yongwei Wu, Kang Chen, Teng Ma, Weimin Zheng   
-Accepted and to appear in the 42nd International Conference on Very Large Data Bases (__VLDB 2016__)
+42nd International Conference on Very Large Data Bases (__VLDB 2016__)
 * [A Lightweight System for Detecting and Tolerating Concurrency Bugs](/publications/TSE2016-zhang.pdf)   
 Mingxing Zhang, Yongwei Wu, Shan Lu, Shanxiang Qi, Jinglei Ren, and Weimin Zheng   
 IEEE Transactions on Software Engineering (__TSE__), 2016
