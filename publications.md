@@ -41,7 +41,7 @@ IEEE Transactions on Knowledge and Data Engineering (__TKDE__), 2016, Vol. 28, N
 * [ThyNVM: Enabling Software-Transparent Crash Consistency in Persistent Memory Systems](/publications/MICRO2015-ren.pdf)    
 Jinglei Ren, Jishen Zhao, Samira Khan, Jongmoo Choi, Yongwei Wu, and Onur Mutlu   
 48th Annual IEEE/ACM International Symposium on Microarchitecture (__MICRO 2015__)
-* [Sliding Mode Congestion Control for Data Center Ethernet Networks](/publications/TC2015-jiang.pdf)
+* [Sliding Mode Congestion Control for Data Center Ethernet Networks](/publications/TC2015-jiang.pdf)   
 Wanchun Jiang, Fengyuan Ren, Ran Shu, Yongwei Wu, Chuang Lin   
 IEEE Transactions on Computers (__ToC__), 2015, Vol. 64, Issue 9, pp.2675-2690
 * [Associative Big Data Sharing in Community Clouds – The MeePo Approach](/publications/CC2015-wu.pdf)   
