@@ -7,7 +7,10 @@ group: navigation
 {% include JB/setup %}
 
 ### 2017
-* DEDTM: Building Durable Transactions for Persistent Memories with Decoupling   
+*High Performance Graph Processing with Locality Oriented Design   
+Pin Gao, Mingxing Zhang, Kang Chen, Yongwei Wu, Weimin Zheng   
+IEEE Transactions on Computers (__ToC__), 2017
+* DudeTM: Building Durable Transactions with Decoupling for Persistent Memory   
 Mengxing Liu\*, Mingxing Zhang\*, Kang Chen, Xuehai Qian, Yongwei Wu, Weimin Zheng, Jinglei Ren (\*  Equally contributed)   
 Accepted and to appear in the 2017 Architectural Support for Programming Languages and Operating Systems (__ASPLOS 2017__)
 
@@ -20,7 +23,7 @@ Mingxing Zhang, Yongwei Wu, Kang Chen, Teng Ma, Weimin Zheng
 42nd International Conference on Very Large Data Bases (__VLDB 2016__)
 * [A Lightweight System for Detecting and Tolerating Concurrency Bugs](/publications/TSE2016-zhang.pdf)   
 Mingxing Zhang, Yongwei Wu, Shan Lu, Shanxiang Qi, Jinglei Ren, and Weimin Zheng   
-IEEE Transactions on Software Engineering (__TSE__), 2016
+IEEE Transactions on Software Engineering (__TSE__), 2016, Vol. 42, Issue 10, pp.899-917
 * [PCAF: Scalable, High Precision k-NN Search using Principal Component Analysis based Filtering](/publications/ICPP2016-feng.pdf)   
 Huan Feng, David Eyers, Steven Mills, Yongwei Wu, Zhiyi Huang   
 45th International Conference on Parallel Processing (__ICPP 2016__)
