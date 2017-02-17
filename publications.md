@@ -7,7 +7,7 @@ group: navigation
 {% include JB/setup %}
 
 ### 2017
-* High Performance Graph Processing with Locality Oriented Design   
+* [High Performance Graph Processing with Locality Oriented Design](/publications/TC2017-gao.pdf)
 Pin Gao, Mingxing Zhang, Kang Chen, Yongwei Wu, Weimin Zheng   
 IEEE Transactions on Computers (__ToC__), 2017
 * DudeTM: Building Durable Transactions with Decoupling for Persistent Memory   
