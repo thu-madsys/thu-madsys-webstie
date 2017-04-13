@@ -15,7 +15,7 @@ Pin Gao, Mingxing Zhang, Kang Chen, Yongwei Wu, Weimin Zheng
 IEEE Transactions on Computers (__ToC__), 2017
 * [DudeTM: Building Durable Transactions with Decoupling for Persistent Memory](/publications/ASPLOS2017-liu.pdf)   
 Mengxing Liu\*, Mingxing Zhang\*, Kang Chen, Xuehai Qian, Yongwei Wu, Weimin Zheng, Jinglei Ren (\*  Equally contributed)   
-22th Architectural Support for Programming Languages and Operating Systems (__ASPLOS 2017__)
+22nd Architectural Support for Programming Languages and Operating Systems (__ASPLOS 2017__)
 
 ### 2016
 * [Exploring the Hidden Dimension in Graph Processing](/publications/OSDI2016-zhang.pdf)   
@@ -42,6 +42,9 @@ IEEE Transactions on Computers (__ToC__), 2016, Vol. 65, Issue 3, pp.916-928
 * [Top-k Spatio-Textual Similarity Join](/publications/TKDE2015-hu.pdf)   
 Huiqi Hu, Guoliang Li, Zhifeng Bao, Jianhua Feng, Yongwei Wu, Zhiguo Gong, Yaoqiang Xu   
 IEEE Transactions on Knowledge and Data Engineering (__TKDE__), 2016, Vol. 28, No. 2, pp.551-565
+* [Cloud Performance Modeling with Benchmark Evaluation of Elastic Scaling Strategies](/publications/TPDS2016-hwang.pdf)   
+Kai Hwang, Xiaoyin Bai, Yue Shi, Muyang Li, Wenguang Chen, Yongwei Wu   
+IEEE Transactions on Parallel and Distributed Systems (__TPDS__), 2016, Vol. 27, No. 1, pp.130-143
 
 ### 2015
 * [ThyNVM: Enabling Software-Transparent Crash Consistency in Persistent Memory Systems](/publications/MICRO2015-ren.pdf)    
