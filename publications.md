@@ -13,9 +13,9 @@ Accepted and to appear in the 2017 European Conference on Computer Systems Syste
 * [High Performance Graph Processing with Locality Oriented Design](/publications/TC2017-gao.pdf)   
 Pin Gao, Mingxing Zhang, Kang Chen, Yongwei Wu, Weimin Zheng   
 IEEE Transactions on Computers (__ToC__), 2017
-* DudeTM: Building Durable Transactions with Decoupling for Persistent Memory   
+* [DudeTM: Building Durable Transactions with Decoupling for Persistent Memory](/publications/ASPLOS2017-liu.pdf)   
 Mengxing Liu\*, Mingxing Zhang\*, Kang Chen, Xuehai Qian, Yongwei Wu, Weimin Zheng, Jinglei Ren (\*  Equally contributed)   
-Accepted and to appear in the 2017 Architectural Support for Programming Languages and Operating Systems (__ASPLOS 2017__)
+22th Architectural Support for Programming Languages and Operating Systems (__ASPLOS 2017__)
 
 ### 2016
 * [Exploring the Hidden Dimension in Graph Processing](/publications/OSDI2016-zhang.pdf)   
