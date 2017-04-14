@@ -45,6 +45,9 @@ IEEE Transactions on Knowledge and Data Engineering (__TKDE__), 2016, Vol. 28, N
 * [Cloud Performance Modeling with Benchmark Evaluation of Elastic Scaling Strategies](/publications/TPDS2016-hwang.pdf)   
 Kai Hwang, Xiaoyin Bai, Yue Shi, Muyang Li, Wenguang Chen, Yongwei Wu   
 IEEE Transactions on Parallel and Distributed Systems (__TPDS__), 2016, Vol. 27, No. 1, pp.130-143
+* [Accelerating MapReduce on Commodity Clusters: An SSD-Empowered Approach](/publications/TBD2016-wang.pdf)   
+Bo Wang, Jinlei Jiang, Yongwei Wu, Guangwen Yang, Keqin Li   
+IEEE Transactions on Big Data, 2016
 
 ### 2015
 * [ThyNVM: Enabling Software-Transparent Crash Consistency in Persistent Memory Systems](/publications/MICRO2015-ren.pdf)    
