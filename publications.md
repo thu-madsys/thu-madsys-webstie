@@ -7,6 +7,9 @@ group: navigation
 {% include JB/setup %}
 
 ### 2017
+* Squeezing out All the Value of Loaded Data: An Out-of-core Graph Processing System with Reduced Disk I/O   
+Zhiyuan Ai, Mingxing Zhang, Yongwei Wu, Xuehai Qian, Kang Chen, Weimin Zheng   
+Accepted and to appear in the 2017 USENIX Annual Technical Conference (__ATC 2017__)
 * [RFP: When RPC is Faster than Server-Bypass with RDMA](/publications/EUROSYS2017-su.pdf)   
 Maomeng Su, Mingxing Zhang, Kang Chen, Zhenyu Guo, Yongwei Wu   
 12th European Conference on Computer Systems Systems (__EuroSys 2017__)
