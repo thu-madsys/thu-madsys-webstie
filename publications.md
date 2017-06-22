@@ -13,7 +13,7 @@ Accepted and to appear in the 2017 USENIX Annual Technical Conference (__ATC 201
 * [RFP: When RPC is Faster than Server-Bypass with RDMA](/publications/EUROSYS2017-su.pdf)   
 Maomeng Su, Mingxing Zhang, Kang Chen, Zhenyu Guo, Yongwei Wu   
 12th European Conference on Computer Systems Systems (__EuroSys 2017__)   
-Recent founding can be found in the [slides](/publications/rfp.pdf).
+More information can be found [here](/publications/rfp.pdf).
 * [High Performance Graph Processing with Locality Oriented Design](/publications/TC2017-gao.pdf)   
 Pin Gao, Mingxing Zhang, Kang Chen, Yongwei Wu, Weimin Zheng   
 IEEE Transactions on Computers (__ToC__), 2017
