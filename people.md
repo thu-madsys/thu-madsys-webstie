@@ -12,15 +12,16 @@ group: navigation
 * [Jinlei Jiang](/~jinleijiang)
 * Caifeng Hou
 
+## Postdoc
+* [Mingxing Zhang](http://james0zan.github.io) (Tsinghua U. & Sangfor Inc.)
+* Jun Ma
+
 ## Students
 * Huan Feng (Ph.D.)
-* [Mingxing Zhang](http://james0zan.github.io) (Ph.D.)
 * [Pin Gao](http://zorksylar.github.io) (Ph.D.)
 * Zhiyuan Ai (Ph.D.)
 * Ke Yang (Ph.D.)
 * Xue Li (Ph.D.)
-* Jian Huang (Master)
-* Zheyi Chen (Master)
 * Mengxing Liu (Ph.D.)
 * Yifeng Ding (Ph.D.)
 * Yingdi Shan (Master)
@@ -34,6 +35,8 @@ group: navigation
 * Bingfen Li (2014-2015)
 
 ##Alumni
+* Jian Huang (Master 2017), the Organization Department of Jiangxi Province Party Committee, Nanchang, China
+* Zheyi Chen (Master 2017), University Of Exeter, Exeter, United Kingdom
 * [Maomeng Su](https://www.linkedin.com/profile/view?id=349373945) (Ph.D. 2016), Huawei Inc., Beijing, China
 * [Weichao Guo](http://weichaoguo.github.io) (Ph.D. 2016), Huawei Inc., Beijing, China
 * [Jinglei Ren](http://jinglei.ren.systems) (Ph.D. 2016), MicroSoft Research Asia, Beijing, China
