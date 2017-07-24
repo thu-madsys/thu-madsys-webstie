@@ -34,7 +34,7 @@ group: navigation
 ## Visiting Students
 * Bingfen Li (2014-2015)
 
-##Alumni
+## Alumni
 * Jian Huang (Master 2017), the Organization Department of Jiangxi Province Party Committee, Nanchang, China
 * Zheyi Chen (Master 2017), University Of Exeter, Exeter, United Kingdom
 * [Maomeng Su](https://www.linkedin.com/profile/view?id=349373945) (Ph.D. 2016), Huawei Inc., Beijing, China
