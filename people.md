@@ -30,6 +30,9 @@ group: navigation
 * Xin Xia (Master)
 * Kun Gong (Master)
 * Zhitao Li (Master)
+* Zeqing Li (Ph.D.)
+* Qing Ren (Ph.D.)
+* ChengYing Huan (Ph.D.)
 
 ## Visiting Students
 * Bingfen Li (2014-2015)
