@@ -31,7 +31,7 @@ group: navigation
 * Kun Gong (Master)
 * Zhitao Li (Master)
 * Zeqing Li (Ph.D.)
-* Qing Ren (Ph.D.)
+* Feng Ren (Ph.D.)
 * ChengYing Huan (Ph.D.)
 
 ## Visiting Students
