@@ -32,7 +32,10 @@ group: navigation
 * Zhitao Li (Master)
 * Zeqing Li (Ph.D.)
 * Feng Ren (Ph.D.)
-* ChengYing Huan (Ph.D.)
+* Chengying Huan (Ph.D.)
+* Tuoyu Gong (Master)
+* Haoyu Dong (Master)
+* Yining Liu (Master)
 
 ## Visiting Students
 * Bingfen Li (2014-2015)
