@@ -6,7 +6,7 @@ header: Hello Systems!
 {% include JB/setup %}
 
 <p>
-MadSys (<span style="color:#f00">Mad Sys</span>tem) group is doing cutting-edge system research, especially focuses on the design, implementation, evaluation and application of the parallel and distributed systems. Our research interests include Runtime Environment, Data Storage/Management, Virtualization, Resource Management, Distributed Scheduling, Performance Analysis, Reliability/Fault Tolerant and other related topics.
+MadSys (<span style="color:#f00">M</span>achine Learning, <span style="color:#f00">A</span>I, <span style="color:#f00">D</span>ata Mining <span style="color:#f00">Sys</span>tem) group is doing cutting-edge system research, especially focuses on the design, implementation, evaluation and application of the parallel and distributed systems. Our research interests include Runtime Environment, Data Storage/Management, Virtualization, Resource Management, Distributed Scheduling, Performance Analysis, Reliability/Fault Tolerant and other related topics.
 </p>
 
 <div id="slider1_container" style="position: relative; top: 0px; left: 0px; width: 600px; height: 300px;">
