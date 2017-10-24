@@ -7,6 +7,9 @@ group: navigation
 {% include JB/setup %}
 
 ### 2017
+* GraphP: Reducing Communication of PIM-based Graph Processing with Efficient Data Partition   
+Mingxing Zhang, Youwei Zhuo, Chao Wang, Mingyu Gao, Yongwei Wu, Christos Kozyrakis, Xuehai Qian   
+Accepted and to appear in the 24th IEEE International Symposium on High-Performance Computer Architecture (__HPCA 2018__)
 * [Squeezing out All the Value of Loaded Data: An Out-of-core Graph Processing System with Reduced Disk I/O](/publications/ATC2017-ai.pdf)   
 Zhiyuan Ai\*, Mingxing Zhang\*, Yongwei Wu, Xuehai Qian, Kang Chen, Weimin Zheng (\*  Equally contributed)   
 2017 USENIX Annual Technical Conference (__ATC 2017__)
