@@ -7,6 +7,9 @@ group: navigation
 {% include JB/setup %}
 
 ### 2017
+* Principal Component Analysis based Filtering for Scalable, High Precision k-NN Search   
+Huan Feng, David Eyers, Steven Mills, Yongwei Wu, Zhiyi Huang   
+Accepted and to appear in the IEEE Transactions on Computers (ToC), 2017
 * GraphP: Reducing Communication of PIM-based Graph Processing with Efficient Data Partition   
 Mingxing Zhang, Youwei Zhuo, Chao Wang, Mingyu Gao, Yongwei Wu, Kang Chen, Christos Kozyrakis, Xuehai Qian   
 Accepted and to appear in the 24th IEEE International Symposium on High-Performance Computer Architecture (__HPCA 2018__)
@@ -19,7 +22,7 @@ Maomeng Su, Mingxing Zhang, Kang Chen, Zhenyu Guo, Yongwei Wu
 More information can be found [here](/publications/rfp.pdf).
 * [High Performance Graph Processing with Locality Oriented Design](/publications/TC2017-gao.pdf)   
 Pin Gao, Mingxing Zhang, Kang Chen, Yongwei Wu, Weimin Zheng   
-IEEE Transactions on Computers (__ToC__), 2017
+IEEE Transactions on Computers (__ToC__), 2017, Vol. 66, Issue 7, pp.1261-1267
 * [DudeTM: Building Durable Transactions with Decoupling for Persistent Memory](/publications/ASPLOS2017-liu.pdf)   
 Mengxing Liu\*, Mingxing Zhang\*, Kang Chen, Xuehai Qian, Yongwei Wu, Weimin Zheng, Jinglei Ren (\*  Equally contributed)   
 22nd Architectural Support for Programming Languages and Operating Systems (__ASPLOS 2017__)
@@ -55,6 +58,13 @@ IEEE Transactions on Parallel and Distributed Systems (__TPDS__), 2016, Vol. 27,
 * [Accelerating MapReduce on Commodity Clusters: An SSD-Empowered Approach](/publications/TBD2016-wang.pdf)   
 Bo Wang, Jinlei Jiang, Yongwei Wu, Guangwen Yang, Keqin Li   
 IEEE Transactions on Big Data, 2016, pp.1-1
+* PROAR: A Weak Consistency Model for Ceph   
+Jiayuan Zhang, Yongwei Wu, Yeh-Ching Chung   
+IEEE 22nd International Conference on Parallel and Distributed Systems (__ICPDS 2016__)
+* HybridFS — A High Performance and Balanced File System Framework with Multiple Distributed File Systems   
+Lidong Zhang, Yongwei Wu, Ruini Xue, Tse-Chuan Hsu, Hongji Yang, Yeh-Ching Chung   
+Computer Software and Applications Conference (__COMPSAC__), 2017 IEEE 41st Annual, Vol. 1, pp. 796-805
+
 
 ### 2015
 * [ThyNVM: Enabling Software-Transparent Crash Consistency in Persistent Memory Systems](/publications/MICRO2015-ren.pdf)    
