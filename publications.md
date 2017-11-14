@@ -7,7 +7,7 @@ group: navigation
 {% include JB/setup %}
 
 ### 2017
-* Principal Component Analysis based Filtering for Scalable, High Precision k-NN Search   
+* [Principal Component Analysis based Filtering for Scalable, High Precision k-NN Search] (/publications/TC2017-feng.pdf)   
 Huan Feng, David Eyers, Steven Mills, Yongwei Wu, Zhiyi Huang   
 Accepted and to appear in the IEEE Transactions on Computers (ToC), 2017
 * GraphP: Reducing Communication of PIM-based Graph Processing with Efficient Data Partition   
@@ -26,6 +26,9 @@ IEEE Transactions on Computers (__ToC__), 2017, Vol. 66, Issue 7, pp.1261-1267
 * [DudeTM: Building Durable Transactions with Decoupling for Persistent Memory](/publications/ASPLOS2017-liu.pdf)   
 Mengxing Liu\*, Mingxing Zhang\*, Kang Chen, Xuehai Qian, Yongwei Wu, Weimin Zheng, Jinglei Ren (\*  Equally contributed)   
 22nd Architectural Support for Programming Languages and Operating Systems (__ASPLOS 2017__)
+* [HybridFS — A High Performance and Balanced File System Framework with Multiple Distributed File Systems](/publications/COMPSAC2017-zhang.pdf)   
+Lidong Zhang, Yongwei Wu, Ruini Xue, Tse-Chuan Hsu, Hongji Yang, Yeh-Ching Chung   
+Computer Software and Applications Conference (__COMPSAC__), 2017 IEEE 41st Annual, Vol. 1, pp. 796-805
 
 ### 2016
 * [Exploring the Hidden Dimension in Graph Processing](/publications/OSDI2016-zhang.pdf)   
@@ -58,12 +61,9 @@ IEEE Transactions on Parallel and Distributed Systems (__TPDS__), 2016, Vol. 27,
 * [Accelerating MapReduce on Commodity Clusters: An SSD-Empowered Approach](/publications/TBD2016-wang.pdf)   
 Bo Wang, Jinlei Jiang, Yongwei Wu, Guangwen Yang, Keqin Li   
 IEEE Transactions on Big Data, 2016, pp.1-1
-* PROAR: A Weak Consistency Model for Ceph   
+* [PROAR: A Weak Consistency Model for Ceph](/publications/ICPDS2016-zhang.pdf)   
 Jiayuan Zhang, Yongwei Wu, Yeh-Ching Chung   
 IEEE 22nd International Conference on Parallel and Distributed Systems (__ICPDS 2016__)
-* HybridFS — A High Performance and Balanced File System Framework with Multiple Distributed File Systems   
-Lidong Zhang, Yongwei Wu, Ruini Xue, Tse-Chuan Hsu, Hongji Yang, Yeh-Ching Chung   
-Computer Software and Applications Conference (__COMPSAC__), 2017 IEEE 41st Annual, Vol. 1, pp. 796-805
 
 
 ### 2015
