@@ -7,12 +7,12 @@ group: navigation
 {% include JB/setup %}
 
 ### 2017
-* [Principal Component Analysis based Filtering for Scalable, High Precision k-NN Search](/publications/TC2017-feng.pdf)   
-Huan Feng, David Eyers, Steven Mills, Yongwei Wu, Zhiyi Huang   
-Accepted and to appear in the IEEE Transactions on Computers (ToC), 2017
 * GraphP: Reducing Communication of PIM-based Graph Processing with Efficient Data Partition   
 Mingxing Zhang, Youwei Zhuo, Chao Wang, Mingyu Gao, Yongwei Wu, Kang Chen, Christos Kozyrakis, Xuehai Qian   
 Accepted and to appear in the 24th IEEE International Symposium on High-Performance Computer Architecture (__HPCA 2018__)
+* [Principal Component Analysis based Filtering for Scalable, High Precision k-NN Search](/publications/TC2017-feng.pdf)   
+Huan Feng, David Eyers, Steven Mills, Yongwei Wu, Zhiyi Huang   
+Accepted and to appear in the IEEE Transactions on Computers (ToC), 2017
 * [Squeezing out All the Value of Loaded Data: An Out-of-core Graph Processing System with Reduced Disk I/O](/publications/ATC2017-ai.pdf)   
 Zhiyuan Ai\*, Mingxing Zhang\*, Yongwei Wu, Xuehai Qian, Kang Chen, Weimin Zheng (\*  Equally contributed)   
 2017 USENIX Annual Technical Conference (__ATC 2017__)
