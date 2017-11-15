@@ -7,6 +7,9 @@ group: navigation
 {% include JB/setup %}
 
 ### 2017
+* Wonderland: A Novel Abstraction-Based Out-Of-Core Graph Processing System   
+Mingxing Zhang, Yongwei Wu, Youwei Zhuo, Xuehai Qian, Chenyin Huan, Kang Chen  
+Accepted and to appear in the 23rd Architectural Support for Programming Languages and Operating Systems (__ASPLOS 2018__)
 * GraphP: Reducing Communication of PIM-based Graph Processing with Efficient Data Partition   
 Mingxing Zhang, Youwei Zhuo, Chao Wang, Mingyu Gao, Yongwei Wu, Kang Chen, Christos Kozyrakis, Xuehai Qian   
 Accepted and to appear in the 24th IEEE International Symposium on High-Performance Computer Architecture (__HPCA 2018__)
