@@ -34,6 +34,10 @@ Mengxing Liu\*, Mingxing Zhang\*, Kang Chen, Xuehai Qian, Yongwei Wu, Weimin Zhe
 * [HybridFS — A High Performance and Balanced File System Framework with Multiple Distributed File Systems](/publications/COMPSAC2017-zhang.pdf)   
 Lidong Zhang, Yongwei Wu, Ruini Xue, Tse-Chuan Hsu, Hongji Yang, Yeh-Ching Chung   
 Computer Software and Applications Conference (__COMPSAC__), 2017 IEEE 41st Annual, Vol. 1, pp. 796-805
+* [Evolution of Cloud Operating System: From Technology to Ecosystem](/publications/JCST2017-chen.pdf)   
+Zuoning Chen，Kang Chen，Jinlei Jiang，Lufei Zhang，Song Wu，Zhengwei Qi，Chunming Hu，Yongwei Wu，Yuzhong Sun，Hong Tang，Aobing Sun，Zilu Kang   
+Journal of Computer Science and Technology, March 2017, Vol. 32, Issue 2, pp. 224–241
+
 
 ### 2016
 * [Exploring the Hidden Dimension in Graph Processing](/publications/OSDI2016-zhang.pdf)   
