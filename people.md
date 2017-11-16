@@ -13,7 +13,7 @@ group: navigation
 * Caifeng Hou
 
 ## Postdoc
-* [Mingxing Zhang](http://james0zan.github.io) (Tsinghua U. & Sangfor Inc.)
+* [Mingxing Zhang](/~zhangmx) (Tsinghua U. & Sangfor Inc.)
 * Jun Ma
 
 ## Students
