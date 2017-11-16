@@ -32,7 +32,7 @@ group: navigation
 * Zhitao Li (Master)
 * Zeqing Li (Ph.D.)
 * Feng Ren (Ph.D.)
-* Chenying Huan (Ph.D.)
+* Chengying Huan (Ph.D.)
 * Qi Chen (Ph.D.)
 * Tuoyu Gong (Master)
 * Haoyu Dong (Master)
