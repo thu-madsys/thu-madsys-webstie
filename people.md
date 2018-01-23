@@ -17,7 +17,6 @@ group: navigation
 * Jun Ma
 
 ## Students
-* Huan Feng (Ph.D.)
 * [Pin Gao](http://zorksylar.github.io) (Ph.D.)
 * Zhiyuan Ai (Ph.D.)
 * Ke Yang (Ph.D.)
@@ -42,6 +41,7 @@ group: navigation
 * Bingfen Li (2014-2015)
 
 ## Alumni
+* Huan Feng (Ph.D. 2018), Huawei Inc., Beijing, China
 * Jian Huang (Master 2017), the Organization Department of Jiangxi Province Party Committee, Nanchang, China
 * Zheyi Chen (Master 2017), University Of Exeter, Exeter, United Kingdom
 * [Maomeng Su](https://www.linkedin.com/profile/view?id=349373945) (Ph.D. 2016), Huawei Inc., Beijing, China
