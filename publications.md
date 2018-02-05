@@ -7,6 +7,9 @@ group: navigation
 {% include JB/setup %}
 
 ### 2018
+* Low Latency RNN Inference with Cellular Batching   
+Pin Gao, Lingfan Yu, Yongwei Wu, Jinyang Li   
+Accepted and to appear in the 13th European Conference on Computer Systems Systems (__EuroSys 2018__)
 * Wonderland: A Novel Abstraction-Based Out-Of-Core Graph Processing System   
 Mingxing Zhang, Yongwei Wu, Youwei Zhuo, Xuehai Qian, Chenyin Huan, Kang Chen  
 Accepted and to appear in the 23rd Architectural Support for Programming Languages and Operating Systems (__ASPLOS 2018__)
