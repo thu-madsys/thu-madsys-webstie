@@ -14,8 +14,12 @@ Accepted and to appear in the 13th European Conference on Computer Systems Syste
 Mingxing Zhang, Yongwei Wu, Youwei Zhuo, Xuehai Qian, Chenyin Huan, Kang Chen  
 Accepted and to appear in the 23rd Architectural Support for Programming Languages and Operating Systems (__ASPLOS 2018__)
 * GraphP: Reducing Communication of PIM-based Graph Processing with Efficient Data Partition   
-Mingxing Zhang\*, Youwei Zhuo\*, Chao Wang, Mingyu Gao, Yongwei Wu, Kang Chen, Christos Kozyrakis, Xuehai Qian (\*  Equally contributed))   
+Mingxing Zhang\*, Youwei Zhuo\*, Chao Wang, Mingyu Gao, Yongwei Wu, Kang Chen, Christos Kozyrakis, Xuehai Qian (\*  Equally contributed)   
 Accepted and to appear in the 24th IEEE International Symposium on High-Performance Computer Architecture (__HPCA 2018__)
+* [DudeTx: Durable Transactions Made Decoupled](/publications/TS2018-liu.pdf)  
+Mengxing Liu\*, Mingxing Zhang\*, Kang Chen, Xuehai Qian, Yongwei Wu, Weimin Zheng, Jinglei Ren (\*  Equally contributed)  
+ACM Transactions on Storage (__ToS__), January 2018
+
 
 ### 2017
 * [Principal Component Analysis based Filtering for Scalable, High Precision k-NN Search](/publications/TC2017-feng.pdf)   
