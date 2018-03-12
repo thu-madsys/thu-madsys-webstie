@@ -35,7 +35,7 @@ group: navigation
 * Qi Chen (Ph.D.)
 * Tuoyu Gong (Master)
 * Haoyu Dong (Master)
-* Yining Liu (Master)
+* Yihua Liu (Master)
 
 ## Visiting Students
 * Bingfen Li (2014-2015)
