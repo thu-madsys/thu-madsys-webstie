@@ -1,0 +1,4 @@
+#!/bin/sh
+git pull 
+jekyll build --safe
+cp -r _site/* /usr/share/nginx/html/thu-madsys/
