@@ -10,7 +10,7 @@ group: navigation
 ### 2018
 * [Low Latency RNN Inference with Cellular Batching](/publications/EUROSYS2018-gao.pdf)   
 Pin Gao\*, Lingfan Yu\*, Yongwei Wu, Jinyang Li  (\*  Equally contributed)   
-13th European Conference on Computer Systems Systems (__EuroSys 2018__)
+13th European Conference on Computer Systems (__EuroSys 2018__)
 * [Wonderland: A Novel Abstraction-Based Out-Of-Core Graph Processing System](/publications/ASPLOS2018-zhang.pdf)  
 Mingxing Zhang, Yongwei Wu, Youwei Zhuo, Xuehai Qian, Chenyin Huan, Kang Chen  
 23rd Architectural Support for Programming Languages and Operating Systems (__ASPLOS 2018__)
@@ -31,7 +31,7 @@ Zhiyuan Ai\*, Mingxing Zhang\*, Yongwei Wu, Xuehai Qian, Kang Chen, Weimin Zheng
 2017 USENIX Annual Technical Conference (__ATC 2017__)
 * [RFP: When RPC is Faster than Server-Bypass with RDMA](/publications/EUROSYS2017-su.pdf)   
 Maomeng Su, Mingxing Zhang, Kang Chen, Zhenyu Guo, Yongwei Wu   
-12th European Conference on Computer Systems Systems (__EuroSys 2017__)   
+12th European Conference on Computer Systems (__EuroSys 2017__)   
 More information can be found [here](/publications/rfp.pdf).
 * [High Performance Graph Processing with Locality Oriented Design](/publications/TC2017-gao.pdf)   
 Pin Gao, Mingxing Zhang, Kang Chen, Yongwei Wu, Weimin Zheng   
