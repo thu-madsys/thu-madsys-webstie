@@ -10,7 +10,7 @@ group: navigation
 * [Yongwei Wu](/~yongweiwu)
 * [Kang Chen](/~kangchen)
 * [Jinlei Jiang](/~jinleijiang)
-* Caifeng Hou
+* Jiahui Ran
 
 ## Postdoc
 * [Mingxing Zhang](/~zhangmx) (Tsinghua U. & Sangfor Inc.)
