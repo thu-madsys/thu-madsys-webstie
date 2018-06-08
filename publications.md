@@ -8,6 +8,9 @@ group: navigation
 
 
 ### 2018
+* [ReGraph: A Graph Processing Framework that Alternately Shrinks and Repartitions the Graph](/publications/ICS2018-li.pdf)   
+Xue Li\*, Mingxing Zhang\*, Kang Chen, Yongwei Wu (\*  Equally contributed)   
+32nd ACM International Conference on Supercomputing (__ICS 2018__)
 * [Low Latency RNN Inference with Cellular Batching](/publications/EUROSYS2018-gao.pdf)   
 Pin Gao\*, Lingfan Yu\*, Yongwei Wu, Jinyang Li  (\*  Equally contributed)   
 13th European Conference on Computer Systems (__EuroSys 2018__)

@@ -33,6 +33,7 @@ group: navigation
 * Feng Ren (Ph.D.)
 * Chengying Huan (Ph.D.)
 * Qi Chen (Ph.D.)
+* Shuke Wang (Ph.D.)
 * Tuoyu Gong (Master)
 * Haoyu Dong (Master)
 * Yihua Liu (Master)
