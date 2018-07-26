@@ -23,8 +23,7 @@ group: navigation
 * Xue Li (Ph.D.)
 * Mengxing Liu (Ph.D.)
 * Yifeng Ding (Ph.D.)
-* Yingdi Shan (Master)
-* Jiang Wang (Master)
+* Yingdi Shan (Ph.D.)
 * Teng Ma (Ph.D.)
 * Xin Xia (Master)
 * Kun Gong (Master)
@@ -42,6 +41,7 @@ group: navigation
 * Bingfen Li (2014-2015)
 
 ## Alumni
+* Jiang Wang (Master 2018), Huawei Inc., Beijing, China
 * Huan Feng (Ph.D. 2018), Huawei Inc., Beijing, China
 * Jian Huang (Master 2017), the Organization Department of Jiangxi Province Party Committee, Nanchang, China
 * Zheyi Chen (Master 2017), University Of Exeter, Exeter, United Kingdom
