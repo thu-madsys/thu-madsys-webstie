@@ -10,7 +10,7 @@ group: navigation
 ### 2018
 * [CLIP: A Disk I/O Focused Parallel Out-of-core Graph Processing System](/publications/TPDS2018-ai.pdf)    
 Zhiyuan Ai\*, Mingxing Zhang\*, Yongwei Wu, Xuehai Qian, Kang Chen, Weimin Zheng (\*  Equally contributed)    
-IEEE Transactions on Parallel and Distributed Systems (__TPDS__)
+IEEE Transactions on Parallel and Distributed Systems (__TPDS__), 2018
 * [ReGraph: A Graph Processing Framework that Alternately Shrinks and Repartitions the Graph](/publications/ICS2018-li.pdf)   
 Xue Li\*, Mingxing Zhang\*, Kang Chen, Yongwei Wu (\*  Equally contributed)   
 32nd ACM International Conference on Supercomputing (__ICS 2018__)
