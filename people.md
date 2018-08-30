@@ -36,6 +36,12 @@ group: navigation
 * Tuoyu Gong (Master)
 * Haoyu Dong (Master)
 * Yihua Liu (Master)
+* Shaonan Ma (Ph.D.)
+* Yan Chen (Ph.D.)
+* Xuyang Liu (Master)
+* Shiyu Cai (Master)
+* Junqi Huang (Master)
+* Yiyuan Liu (Master)
 
 ## Visiting Students
 * Bingfen Li (2014-2015)
