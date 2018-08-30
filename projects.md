@@ -6,6 +6,16 @@ group: navigation
 ---
 {% include JB/setup %}
 
+#### Title: Contents Development and Applications Integration for High-Performance Computing Professionals Educations and Training
+*From: Ministry of Science and Technology of China 
+*PI: Jinlei JIANG
+*Time: 2018-2021
+
+#### Title: Distributed Processing Technologies for Heterogeneous Graph Computer Systems
+*From: Ministry of Science and Technology of China
+*PI: Jinlei JIANG
+*Time: 2018-2021
+
 #### Title: High Efficiency Storage and Management for Big Data
 * From: Key Project of Natural Science Foundation of China
 * PI: Yongwei WU
