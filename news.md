@@ -6,7 +6,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-#### Sep 1, 2018
+#### Sep 01, 2018
 * Yingdi Shan and Shaonan Ma are welcome to join the MadSys as doctoral students.
 * Xuyang Liu, Shiyu Cai, Junqi Huang and Yiyuan Liu are welcome to join the MadSys as master students.
 
