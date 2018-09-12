@@ -8,9 +8,9 @@ group: navigation
 
 
 ### 2018
-* [To Isolate, or to Share? That is a Question for Intel SGX](/publications/ApSys18-shen.pdf)
-Youren Shen, Yu Chen, Kang Chen, Hongliang Tian, Shoumeng Yan
-ACM Asia-Pacific Workshop on Systems (__APSys__), 2018
+* [To Isolate, or to Share? That is a Question for Intel SGX](/publications/ApSys18-shen.pdf)  
+Youren Shen, Yu Chen, Kang Chen, Hongliang Tian, Shoumeng Yan  
+9th ACM SIGOPS Asia-Pacific Workshop on Systems (__APSys 2018__)  
 * [CLIP: A Disk I/O Focused Parallel Out-of-core Graph Processing System](/publications/TPDS2018-ai.pdf)    
 Zhiyuan Ai\*, Mingxing Zhang\*, Yongwei Wu, Xuehai Qian, Kang Chen, Weimin Zheng (\*  Equally contributed)    
 IEEE Transactions on Parallel and Distributed Systems (__TPDS__), 2018
